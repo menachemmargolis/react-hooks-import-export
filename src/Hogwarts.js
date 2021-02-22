@@ -1,5 +1,5 @@
 import React from "react";
-import whoseHouse from "./houses/HagridsHouse";
+import whoseHouse from "./houses/whoseHouse";
 import HooflePoof from "./houses/Hufflepuff";
 import * as GryffFunctions from "./houses/Gryffindor";
 
